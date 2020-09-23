@@ -23,7 +23,7 @@ class KingApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'King Yaz-Boz',
+      title: 'King Yaz-Boz Change',
       home: HomePage(),
     );
   }
